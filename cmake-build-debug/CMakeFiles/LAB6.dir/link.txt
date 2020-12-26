@@ -1,0 +1,3 @@
+C:\Users\Administrator\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\202.7660.37\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\LAB6.dir/objects.a
+C:\Users\Administrator\Desktop\C++\Dev-Cpp\MinGW64\bin\ar.exe cr CMakeFiles\LAB6.dir/objects.a @CMakeFiles\LAB6.dir\objects1.rsp
+C:\Users\Administrator\Desktop\C++\Dev-Cpp\MinGW64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\LAB6.dir/objects.a -Wl,--no-whole-archive  -o LAB6.exe -Wl,--out-implib,libLAB6.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\LAB6.dir\linklibs.rsp
